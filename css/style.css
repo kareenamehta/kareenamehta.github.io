@@ -141,15 +141,8 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #0A090C;
-  padding: 10px 0px 10px 10px;
-  border-top: 1px solid #0A090C;
-}
-
-.logo {
-  width: 115px;
-  height: 21.1px;
-  object-fit: contain;
-  padding: 20px;
+  padding: 0 20px 20px 20px;  
+  border-top: 1px solid #4e4c4db5;
 }
 
 /* Removed min-width because some mobile screens are smaller than 500px */
