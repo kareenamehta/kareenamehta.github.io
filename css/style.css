@@ -132,8 +132,10 @@ img {
   color: #0A090C;
   position: relative;
   bottom: 5px;
+  /* add these lines */
+  padding-left: 20px;
+  margin: 0;
 }
-
 .description {
   font-family: 'Merriweather', serif;
   font-family: 'Oswald', sans-serif;
